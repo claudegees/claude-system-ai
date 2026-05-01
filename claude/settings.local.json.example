@@ -1,0 +1,11 @@
+{
+  "_comment": "このファイルは settings.local.json にリネームして使う（gitignore対象）",
+  "env": {
+    "EXAMPLE_API_KEY": "your-key-here"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(open:*)"
+    ]
+  }
+}
