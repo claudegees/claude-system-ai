@@ -1,10 +1,8 @@
-# Claude Code 標準フォルダ構成サンプル
+# Claude Code フォルダ構成
 
-このディレクトリは、Claude Code を使う際の一般的なフォルダ構成のサンプル。
+このディレクトリは、Claude Code を使う際なフォルダ構成
 新規プロジェクトに `.claude/` と `CLAUDE.md` をコピーして雛形として使える。
 
-> ⚠️ **このサンプルでは閲覧しやすいよう `claude/` フォルダ名にしている。**
-> 実際にClaude Codeで使う際は `claude/` を `.claude/` にリネームすること（ドット始まりの隠しフォルダがClaude Codeの仕様）。
 >
 > ```bash
 > mv claude .claude
